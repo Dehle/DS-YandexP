@@ -13,8 +13,7 @@
  - Churn.csv
 
 
-*Используемые инструменты:*
-Pandas, Matplotlib, sklearn, seaborn
+
 
 *Используемые модели:*
 
@@ -43,3 +42,6 @@ Pandas, Matplotlib, sklearn, seaborn
 **Целевой признак**
 
 - `Exited` — факт ухода клиента
+***
+*Используемые инструменты:*
+Pandas, Matplotlib, sklearn, seaborn
